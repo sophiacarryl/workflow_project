@@ -8,6 +8,7 @@ output: workflowr::wflow_html
 ## Introduction
 
 ```{r}
-2
+24
 ```
 
+Dear friend `r 2 + 4` 
